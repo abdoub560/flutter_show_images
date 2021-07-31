@@ -1,0 +1,3 @@
+enum ImageType{
+  LOCAL,NETWORK
+}
